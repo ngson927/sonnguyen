@@ -1,5 +1,3 @@
-# sonnguyen
-
 # Hi there! 👋
 
 ## 💻✨ About Me
