@@ -2,7 +2,7 @@
 
 ## 💻✨ About Me
 
-- I’m Son Nguyen, a Computer Science senior at Georgia State University, graduating in December 2025.
+- I’m Son Nguyen, a Computer Science senior at Georgia State University, expecting to graduate in May 2026.
 - I specialize in **Full Stack Web Development**, **SQL**, and **Data Science**.
 - Passionate about building scalable applications, solving data-driven problems, and exploring cloud technologies.
 - Currently diving deeper into machine learning and mobile app development.
